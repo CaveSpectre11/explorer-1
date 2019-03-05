@@ -111,5 +111,4 @@ To run sync.js with a larger stack size launch with
 
 Where [SIZE] is an integer higher than the default.
 
-*note: SIZE will depend on which blockchain you are using, you may need to play around a bit to find an optimal setting*
-
+*note: SIZE will depend on which blockchain you are using
